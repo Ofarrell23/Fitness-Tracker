@@ -14,6 +14,9 @@
 ![Screenshoot](assets/fitness.png)
 Example of front page
 
+![Screenshoot](assets/chart.png)
+Example of dashboard page
+
 Heroku Deployment (https://intense-wave-45523.herokuapp.com/)
 
 # User Story
